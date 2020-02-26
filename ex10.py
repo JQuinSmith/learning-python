@@ -14,8 +14,6 @@ print (persian_cat)
 print (backslash_cat)
 print (fat_cat)
 
-print ("." * 10)
-
 #This starts an infinite loop wtf don't run this.
 #while True:
 #   for i in ["/", "-", "|", "\\", "|"]:
